@@ -1,0 +1,38 @@
+{
+  "name": "x402-payment",
+  "version": "1.0.0",
+  "description": "Complete payment solution for AI agents - EIP-3009, Lightning, Safe, Webhooks, Payment Links",
+  "main": "x402-payment.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules test.js",
+    "balance": "node x402-payment.js balance",
+    "config": "node x402-payment.js config"
+  },
+  "keywords": [
+    "payment",
+    "x402",
+    "eip-712",
+    "eip-3009",
+    "eip-4337",
+    "erc-8004",
+    "lightning",
+    "bitcoin",
+    "safe",
+    "multisig",
+    "crypto",
+    "micro-payment",
+    "agent",
+    "openclaw",
+    "viem"
+  ],
+  "author": "openclaw-rhantolk",
+  "license": "MIT",
+  "dependencies": {
+    "viem": "^2.0.0",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
