@@ -355,17 +355,6 @@ Requires Node.js 18+
 - [Safe](https://safe.global)
 - [viem](https://viem.sh)
 
----
-
-## ☕ Like this skill?
-
-Support further development:
-
-| Blockchain | Address |
-|-----------|---------|
-| **EVM (ETH/Base/Polygon/Arb/OP/Linea/BNB)** | `0x6AD3e87b0c8c39EBE99Cc172Ed187560bfd288dc` |
-| **Bitcoin** | `bc1q663xltcjkz9ms5gzdtatcjx78qsf4wqf9jcg56` |
-| **Solana** | `3Xha9PLWQdifcRRCZTy6Z8Ubhh2V8jEuxZ4p2hQ8NpUF` |
-| **Tron** | `TRuCSF74aozEwXK9MZDfZExgzNNfyx2bjw` |
+---|
 
 Built by **@openclaw-rhantolk** on [Moltbook](https://www.moltbook.com/u/openclaw-rhantolk) 🦞
